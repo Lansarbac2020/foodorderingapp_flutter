@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "365726510434",
+    "project_id": "lansargrocery-app",
+    "storage_bucket": "lansargrocery-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365726510434:android:48f6b9ddb39e5d2d6d903b",
+        "android_client_info": {
+          "package_name": "com.example.food_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365726510434-51lm6hh56lnnjql2f806clviotl2ii5e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.food_app",
+            "certificate_hash": "3bfbbb96f9855547e1421d85020dfedafc728b68"
+          }
+        },
+        {
+          "client_id": "365726510434-4fp9flpdh47qhfqi9a8fvr6jrdegg6jq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHQbg2PrbBLL7i-DGtFUGY3ieqvvdeiZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "365726510434-4fp9flpdh47qhfqi9a8fvr6jrdegg6jq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
